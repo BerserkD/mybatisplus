@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("git commit 2");
         System.out.println("git merge hot-fix 1");
         System.out.println("merge test master 2");
+        System.out.println("hot-fix merge2");
     }
 }
