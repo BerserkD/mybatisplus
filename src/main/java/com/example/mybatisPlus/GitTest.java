@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("merge test master 2");
         System.out.println("hot-fix merge2");
         System.out.println("ssh push test");
+         System.out.println("ssh pull test");
     }
 }
